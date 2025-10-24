@@ -9,3 +9,4 @@
 * [ ] Code review doen
 * [ ] Branch mergen
 * [ ] Branch verwijderen
+* [ ] Voorbeeld afgekuerde PR
