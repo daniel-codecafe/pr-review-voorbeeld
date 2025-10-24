@@ -1,4 +1,4 @@
-# Todo list
+# Onze Coole Todo list
 
 * [x] Demo voorbereiden
 * [x] GitHub repository aangemaakt
