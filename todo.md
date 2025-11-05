@@ -10,3 +10,4 @@
 * [ ] Branch mergen
 * [ ] Branch verwijderen
 * [ ] Voorbeeld afgekeurde PR
+* [*] Voorbeeld uitproberen
