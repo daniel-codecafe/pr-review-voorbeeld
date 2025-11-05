@@ -11,3 +11,4 @@
 * [ ] Branch verwijderen
 * [ ] Voorbeeld afgekeurde PR
 * [*] Voorbeeld uitproberen
+* [*] Video opnemen
