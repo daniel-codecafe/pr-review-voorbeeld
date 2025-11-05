@@ -12,3 +12,4 @@
 * [ ] Voorbeeld afgekeurde PR
 * [*] Voorbeeld uitproberen
 * [*] Video opnemen
+* [*] Daadwerkelijk op opnemen klikken
