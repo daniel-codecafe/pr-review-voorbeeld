@@ -13,3 +13,4 @@
 * [*] Voorbeeld uitproberen
 * [*] Video opnemen
 * [*] Daadwerkelijk op opnemen klikken
+* [*] Iets testen
